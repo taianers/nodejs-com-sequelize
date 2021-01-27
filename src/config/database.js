@@ -5,7 +5,7 @@ module.exports = {
     password: 'root',
     database: 'sqlnode',
     define: {
-        imestamps: true,
+        timestamps: true,
         undercored: true,
     },
 };
